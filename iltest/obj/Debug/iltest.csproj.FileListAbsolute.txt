@@ -1,0 +1,6 @@
+D:\Extended\ileditor\iltest\bin\Debug\iltest.exe.config
+D:\Extended\ileditor\iltest\bin\Debug\iltest.exe
+D:\Extended\ileditor\iltest\bin\Debug\iltest.pdb
+D:\Extended\ileditor\iltest\obj\Debug\iltest.exe
+D:\Extended\ileditor\iltest\obj\Debug\iltest.pdb
+D:\Extended\ileditor\iltest\obj\Debug\iltest.csprojResolveAssemblyReference.cache
