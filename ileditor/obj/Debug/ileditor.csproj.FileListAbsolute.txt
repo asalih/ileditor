@@ -1,0 +1,12 @@
+D:\Extended\ileditor\ileditor\bin\Debug\ileditor.exe.config
+D:\Extended\ileditor\ileditor\bin\Debug\ileditor.exe
+D:\Extended\ileditor\ileditor\bin\Debug\ileditor.pdb
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.csprojResolveAssemblyReference.cache
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.Form1.resources
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.Properties.Resources.resources
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.csproj.GenerateResource.Cache
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.exe
+D:\Extended\ileditor\ileditor\obj\Debug\ileditor.pdb
+C:\Users\asalih\Downloads\ileditor\ileditor\bin\Debug\ileditor.exe.config
+C:\Users\asalih\Downloads\ileditor\ileditor\obj\Debug\ileditor.exe
+C:\Users\asalih\Downloads\ileditor\ileditor\obj\Debug\ileditor.pdb

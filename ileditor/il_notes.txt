@@ -1,0 +1,17 @@
+﻿"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Bin\ildasm.exe" original.dll /out=code.asm
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe /dll code.asm
+
+//WR inject
+  .method public hidebysig static void  WR(string data) cil managed
+  {
+    // Code size       16 (0x10)
+    .maxstack  8
+    IL_0000:  nop
+    IL_0001:  ldstr      "Forbidden!"
+    IL_0006:  starg.s    data
+    IL_0008:  ldarg.0
+    IL_0009:  call       void [mscorlib]System.Console::WriteLine(string)
+    IL_000e:  nop
+    IL_000f:  ret
+  } // end of method Program::WR
