@@ -1,2 +1,2 @@
 # ileditor
-helps inject il code using ildasm.exe  and ilasm.exe
+helps inject il code to dll using ildasm.exe  and ilasm.exe
