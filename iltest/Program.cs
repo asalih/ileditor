@@ -21,11 +21,5 @@ namespace iltest
         {
             Console.WriteLine(data);
         }
-
-        public void Payment()
-        {
-            
-            //process...
-        }
     }
 }
